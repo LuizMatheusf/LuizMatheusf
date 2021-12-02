@@ -8,7 +8,7 @@
 
 ##
 
-#### 🤖  Minha atividade no GitHub.
+#### 🤖  Minha atividade no GitHub
 
 <div style="display: inline/-block" align="center">
   <a href="https://github.com/LuizMatheusf">
