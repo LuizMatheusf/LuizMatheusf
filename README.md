@@ -7,7 +7,7 @@
 - 📫 Contate-me no e-mail: luizmatheusf@gmail.com
 ##
 
-<div align="center" style="display: flex">
+<div style="display: flex">
   <a href="https://github.com/LuizMatheusf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizMatheusf&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizMatheusf&layout=compact&langs_count=7&theme=nightowl"/>
