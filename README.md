@@ -4,7 +4,7 @@
 - 🌱 Estou aperfeiçoando meus conhecimentos em JavaScript, HTML e CSS,
     Mas quanto antes irei buscar aprender novas linguagens e tecnologias.
 - 📖 Atualmente cursando Ciência da Computação.
-- 📫 Contate-me no e-mail: luizmatheusf@gmail.com.
+- 📫 Contate-me no e-mail: luizmatheusf@gmail.com
 
 ##
 
