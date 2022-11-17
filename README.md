@@ -3,7 +3,7 @@
 - 🔭 Pretendo trabalhar como Desenvolvedor Júnior em Front-End.
 - 🌱 Estou aperfeiçoando meus conhecimentos em JavaScript, HTML e CSS,
     Mas já tenho contato com outras linguagens e tecnologias.
-- 📖 Atualmente cursando Ciência da Computação.
+- 📖 Atualmente cursando Ciência da Computação na Universidade Estácio.
 - 📫 Contate-me no e-mail: luizmatheusf@gmail.com
 
 ##
