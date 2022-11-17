@@ -1,6 +1,6 @@
 ## Olá, Eu sou o Luiz Matheus 👋
 
-- 🔭 Pretendo trabalhar como Desenvolvedor Júnior em Front-End.
+- 🔭 Pretendo trabalhar como Desenvolvedor Júnior.
 - 🌱 Estou aperfeiçoando meus conhecimentos em JavaScript, HTML e CSS,
     Mas já tenho contato com outras linguagens e tecnologias.
 - 📖 Atualmente cursando Ciência da Computação na Universidade Estácio.
